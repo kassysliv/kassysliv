@@ -1,6 +1,9 @@
 Olá, sou kassy
+
 👩🏽‍💻Estudante de Sistema de informação na UFRPE
+
 📚Possuo inglês básico
+
 💻Insta de estudos =>@prognamix 
 
 <!---
