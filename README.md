@@ -1,7 +1,7 @@
-Olá, sou kassy
-👩🏽‍💻Estudante de SI na UFRPE
-📚Possuo inglês básico
-💻Insta de estudos =>@prognamix 
+-Olá, sou kassy
+-👩🏽‍💻Estudante de SI na UFRPE
+-📚Possuo inglês básico
+-💻Insta de estudos =>@prognamix 
 <!---
 kassysliv/kassysliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
