@@ -47,10 +47,19 @@ Sou uma profissional de tecnologia apaixonada por conectar design intuitivo a da
 
 ### 📊 Desempenho e Estatísticas do GitHub
 
-<p align="left">
-  <a href="http://www.github.com/kassysliv"><img src="https://github-readme-stats.vercel.app/api?username=kassysliv&show_icons=true&count_private=true&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true" alt="Estatísticas do GitHub" /></a>
-</p>
-<p align="left">
-  <a href="http://www.github.com/kassysliv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" alt="GitHub Streak" /></a>
-  <a href="https://github.com/kassysliv"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Principais%20Linguagens" alt="Principais Linguagens" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/kassysliv">
+    <img src="https://github-readme-stats.vercel.app/api?username=kassysliv&show_icons=true&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/kassysliv">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/kassysliv">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&layout=compact&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true&custom_title=Principais%20Linguagens" alt="Principais Linguagens" />
+  </a>
+</div>
