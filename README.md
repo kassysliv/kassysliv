@@ -47,19 +47,7 @@ Sou uma profissional de tecnologia apaixonada por conectar design intuitivo a da
 
 ### 📊 Desempenho e Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/kassysliv">
-    <img src="https://github-readme-stats.vercel.app/api?username=kassysliv&show_icons=true&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/kassysliv">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kassysliv&show_icons=true&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true)](https://github.com/kassysliv)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true)](https://github.com/kassysliv)
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/kassysliv">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&layout=compact&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true&custom_title=Principais%20Linguagens" alt="Principais Linguagens" />
-  </a>
-</div>
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&layout=compact&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true)](https://github.com/kassysliv)
