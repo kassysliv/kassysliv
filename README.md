@@ -1,56 +1,42 @@
 # Olá, sou a Kassiane Gomes da Silva 👩🏽‍💻
 
-**Desenvolvedora Front-end | Mobile | Analista de Dados**
+**Desenvolvedora Front-end | Web & Mobile**
 
-Sou uma profissional de tecnologia apaixonada por conectar design intuitivo a dados precisos. Minha atuação foca no desenvolvimento **Front-end para Web e Mobile**, criando interfaces modernas e responsivas. Em paralelo, possuo forte interesse e habilidades práticas em **Estatística e Análise de Dados**, utilizando a programação para extrair insights visuais e embasar decisões com inteligência.
-
-### 🚀 Sobre Mim
-
-- 🎓 Estudante de Sistemas de Informação na **UFRPE**.
-- 📱 Foco principal em desenvolvimento **Front-end**, construindo soluções modernas e otimizadas para a jornada do usuário.
-- 📊 Aplico conceitos de **Estatística e Análise de Dados** utilizando **Python (Pandas, Seaborn, Matplotlib)** para transformar dados brutos em visualizações claras e informativas.
-- 🌱 Sempre em busca de alinhar a experiência do usuário (UX/UI) com o pensamento analítico (Data-Driven).
-- 🇬🇧 Inglês básico (em desenvolvimento).
+Sou uma profissional de tecnologia apaixonada por criar experiências digitais fluidas e atraentes. Meu foco principal é transformar ideias em realidade através do desenvolvimento de interfaces responsivas para a Web e a construção de aplicativos Mobile nativos e intuitivos. 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🎯 Meu Foco e Atuação
+
+- 🎓 Cursando **Sistemas de Informação** na UFRPE, alinhando a base acadêmica com as exigências do mercado.
+- 📱 Focada no desenvolvimento de aplicativos Mobile utilizando **React Native** e o ecossistema **Expo**.
+- 💻 Construindo aplicações Web modernas e aprofundando meus conhecimentos nas melhores práticas de Front-end.
+- 🎨 Explorando conceitos de **UI/UX Design** através do Figma para criar protótipos focados na experiência do usuário.
+- 💼 Atuando no mercado de trabalho (Jovem Aprendiz) para desenvolver comunicação, organização e vivência corporativa.
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
 
 <p align="left">
-  <!-- Web & Mobile -->
+  <!-- Front-end & Web -->
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  
+  <!-- Mobile & Ecossistema -->
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
-  <!-- Dados & Back-end -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <!-- Ferramentas -->
+  
+  <!-- Design & Ferramentas -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  
+  <!-- Outros Conhecimentos -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
 ---
-
-### 🔗 Conecte-se Comigo
-
-<p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="SEU_LINK_DO_PORTIFOLIO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-ec4899?style=for-the-badge&logo=Web&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
-
----
-
-### 📊 Desempenho e Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kassysliv&show_icons=true&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true)](https://github.com/kassysliv)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true)](https://github.com/kassysliv)
-
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&layout=compact&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true)](https://github.com/kassysliv)
 
 ### 📈 Minha Atividade no GitHub
 
@@ -70,3 +56,19 @@ Sou uma profissional de tecnologia apaixonada por conectar design intuitivo a da
     <img src="https://ghchart.rshah.org/ec4899/kassysliv" alt="Mapa de Contribuições do GitHub" />
   </a>
 </div>
+
+---
+
+### 🔗 Conecte-se Comigo
+
+<p align="left">
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="SEU_LINK_DO_PORTIFOLIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-ec4899?style=for-the-badge&logo=Web&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
