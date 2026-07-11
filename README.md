@@ -51,3 +51,22 @@ Sou uma profissional de tecnologia apaixonada por conectar design intuitivo a da
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kassysliv&stroke=22c55e&background=000000&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true)](https://github.com/kassysliv)
 
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kassysliv&layout=compact&langs_count=10&title_color=ec4899&text_color=ec4899&icon_color=22c55e&bg_color=000000&hide_border=true)](https://github.com/kassysliv)
+
+### 📈 Minha Atividade no GitHub
+
+<!-- Gráfico de Atividade em Linha -->
+<div align="center">
+  <a href="https://github.com/kassysliv">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kassysliv&bg_color=000000&color=ec4899&line=22c55e&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20Recente" width="100%" alt="Gráfico de Atividade do GitHub" />
+  </a>
+</div>
+
+<br>
+
+<!-- Mapa de Contribuições -->
+<div align="center">
+  <h4 align="center">Dias de Código</h4>
+  <a href="https://github.com/kassysliv">
+    <img src="https://ghchart.rshah.org/ec4899/kassysliv" alt="Mapa de Contribuições do GitHub" />
+  </a>
+</div>
